@@ -5,6 +5,6 @@ def chai(n):
 
 chai("lemon tea")
 
-chai_one = "lemon tea"
-chai_two = "ginger tea"
-chai_three = "masala chai"
+oder_one = "lemon tea"
+oder_two = "ginger tea"
+oder_three = "masala chai"
